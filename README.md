@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Milan, a business analyst
+[![Gmail Badge](https://img.shields.io/badge/-milannanayakkara97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:milannanayakkara97@gmail.com)](mailto:milannanayakkara97@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-milan-nanayakkara-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milan-nanayakkara/)](https://www.linkedin.com/in/milan-nanayakkara/) [![Github Badge](https://img.shields.io/badge/-milannanayakkara-grey?style=flat&logo=github&logoColor=white&link=https://github.com/milannanayakkara/)](https://www.github.com/milannanayakkara/) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=milannanayakkara alt=milannanayakkara /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=milannanayakkara&show_icons=true&include_all_commits=true)](https://github.com/milannanayakkara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milannanayakkara&layout=compact)](https://github.com/milannanayakkara/github-readme-stats)
 
 <!--
 **milannanayakkara/milannanayakkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
